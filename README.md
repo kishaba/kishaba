@@ -4,8 +4,7 @@
 
 <div>
   <a href="https://github.com/kishaba">
-  <img height="180em" src="https://github-readme-stats-eight-sooty.vercel.app/api?username=brunozampirom&count_private=true&show_icons=true&theme=dark&include_all_commits=true&hide=issues"/>
-  <img height="180em" src="https://github-readme-stats-eight-sooty.vercel.app/api/top-langs/?username=brunozampirom&layout=compact&langs_count=8&theme=dark&hide=HLSL,ShaderLab"/>
+
 </div>
 
 <div style="display: inline_block"><br>
