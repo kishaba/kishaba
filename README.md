@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/kishaba">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kishaba&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishaba"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishaba&langs_count=8&theme=dark&hide=HLSL,ShaderLab"/>
     
 
 </div>
