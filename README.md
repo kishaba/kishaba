@@ -1,8 +1,8 @@
 
 <div>
   <a href="https://github.com/kishaba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kishaba&show_icons=true&theme=tokyonight"/><br>
-  <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishaba&langs_count=8&theme=dark&hide=HLSL,ShaderLab"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kishaba&show_icons=true&theme=dark&hide"/><br>
+  <img height="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishaba&langs_count=8&theme=dark&hide=HLSL,ShaderLab"/>
     
 </div>
 
@@ -10,6 +10,10 @@
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
+  
 
 </div>
    
